@@ -1,4 +1,4 @@
 # Type-tester
 It is a program that calculates the typing speed
 <br>
-Shubh dixit
+Shubh Dixit(Dashi Bro)
